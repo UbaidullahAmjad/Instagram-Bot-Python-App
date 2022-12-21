@@ -1,8 +1,6 @@
 # Introduction:
 This is an automated artificial intelligence-based software platform that is responsible for social media marketing on Instagram. The system first collects all the data depending on your field of interest and increases interaction with the audience by liking, commenting, and messaging then makes your marketing posts for your business and then shares these posts in relevant groups.
-
 This system overcomes the efforts for marketing and gives pure organic results and provides an easy solution for businesses.
-
 We developed this solution for businesses so that they meet their marketing needs and provide them with an organic market audience. We developed AI algorithms and bots that not only get hidden by other Instagram bots but work like human beings.
 # Country:
 Brazil
